@@ -14,7 +14,7 @@ tags:
   - Flow
   - Archy
 gallery:
-  - image_url: /images/mackintosh.jpg
+  - image_url: /images/macintosh.jpg
     caption: "Ο σχεδιασμός του Macintosh ξεκίνησε στα τέλη του 1970 από τον Τζεφ Ράσκιν (Jef Raskin), έναν υπάλληλο της Apple που οραματίστηκε έναν εύχρηστο, χαμηλού κόστους υπολογιστή για το μέσο καταναλωτή."
   - image_url: /images/jef-raskin.jpg
     caption: "Ο Jef Raskin είναι γνωστός ως ο πατέρας του Macintosh, αφού συνέλαβε την ιδέα και ξεκίνησε το project στα τέλη της 10ετίας του 70."
